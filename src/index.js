@@ -1,9 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-
-import Card from './components/Card';
+import Main from './components/Main';
 
 ReactDOM.render(
-  <Card />,
+  <Main />,
   document.getElementById('root')
 );
